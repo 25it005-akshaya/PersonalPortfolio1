@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, sans-serif;
+    margin:0;
+    background:#f4f4f4;
+}
+
+header{
+    background:#0077cc;
+    color:white;
+    text-align:center;
+    padding:25px;
+}
+
+section{
+    width:80%;
+    margin:20px auto;
+    background:white;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,.2);
+}
+
+.project{
+    border-bottom:1px solid #ddd;
+    padding:15px 0;
+}
+
+.project:last-child{
+    border:none;
+}
+
+a{
+    color:blue;
+    text-decoration:none;
+}
